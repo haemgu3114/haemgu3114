@@ -2,7 +2,7 @@
 
 # Hi, I'm haemgu3114
 
-### Python · Data Analysis · Machine Learning
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Learning+Python+%26+Machine+Learning;Exploring+Data+Analysis+Step+by+Step;Building+Projects+and+Learning+Every+Day)](https://git.io/typing-svg)
 
 데이터를 직접 다뤄보고, 코드를 실행하면서 하나씩 배우고 있습니다.  
 Python 기초부터 데이터 분석, 머신러닝, 간단한 웹 개발까지 기록하고 있습니다.
